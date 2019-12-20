@@ -380,4 +380,4 @@ CREATE TABLE `yii2_user` (
 -- Records of yii2_user
 -- ----------------------------
 INSERT INTO `yii2_user` VALUES ('1', 'admin888', 'ef0dyJt4gpTSqdcFKtox9vuao0mkdVgz', '$2y$13$0xo3fbbstP8qIYsjEYR5NuyJUbrsc2WiBybpkSp/8KujwPRye0l8u', null, '1620016116@qq.com', '10', '1576747403', '1576747403', 'auG1pD744_dnm-XtPgHXozJZ-YR_MUt6_1576747403');
-INSERT INTO `yii2_user` VALUES ('2', 'admin1', 'iuB2hjVFGTcNn_QSLivxTqSLJlRkV5tl', '$2y$13$R6FxTNngIYcDXi6Jq5MQz.Sqftrurb1Ww1bHAEOfnTXTpHVLmnvy6', null, '1575955004@qq.com', '10', '1576750451', '1576750451', 'fqmc2QUn2GrvdNK9aGNeStCyis6Ehh9v_1576750451');
+INSERT INTO `yii2_user` VALUES ('2', 'admin1', 'iuB2hjVFGTcNn_QSLivxTqSLJlRkV5tl', '$2y$13$R6FxTNngIYcDXi6Jq5MQz.Sqftrurb1Ww1bHAEOfnTXTpHVLmnvy6', null, 'abc@qq.com', '10', '1576750451', '1576750451', 'fqmc2QUn2GrvdNK9aGNeStCyis6Ehh9v_1576750451');
